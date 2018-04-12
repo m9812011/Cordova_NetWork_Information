@@ -11,4 +11,8 @@ export class HomePage {
 
   }
 
+  public checkNetworkState(): void{
+    console.log("checkNetworkState()");
+  }
+
 }
