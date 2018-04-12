@@ -1,0 +1,8 @@
+{
+  "name": "NetWork_Information",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
